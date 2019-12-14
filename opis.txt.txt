@@ -1,0 +1,7 @@
+Stworzona przeze mnie aplikacja to prosta symulacja w³aœciciela klubu pi³karskiego. Mo¿emy zarz¹dzaæ pi³karzami, mianowicie kupowaæ ich, edytowaæ ich dane lub zwlaniaæ. To samo dotyczy siê pracowników klubu lub rodzajów stanowisk pracy. Program realizuje wszystkie wymagania dotycz¹ce tego zadania. Posiada 5 tabel:
+- Pi³karz
+- Pracownik
+- Stanowisko pracownika
+- Kraj pochodzenia
+- Pozycja pi³karza na boisku
+Trzy tabele posiadaja mozliwoœæ dodawania, usuwania i edytowania( Pi³karz,  Pracownik , Stanowisko pracownika).Kraje tylko mozemy dodawaæ do bazy. Po³¹czenia w mojej bazie zachodz¹ pomiêdzy pi³karzem a krajem i pozycj¹, a tak¿e miêdzy pracownikiem a jego stanowiskiem i krajem. W programie u¿y³em klasy pochodz¹ce od UserControl. 
